@@ -1,0 +1,23 @@
+# matrix-cedar-ventures-643
+
+Test dashboard project for browser runs and API status.
+
+## Overview
+
+This repository contains a compact set of source files, notes, and workflow helpers for development experiments. It is organized for quick inspection, simple reuse, and iterative testing.
+
+## Contents
+
+- `channel_state_test.go`
+- `provider-strategy.js`
+- `knip.json`
+- `health_probe_test.go`
+- `common.js`
+- `z-kiro-accounts 2026-01-02 23-56-48.json`
+- `kiro-hohuyt-20260103.json`
+- `claude/claude-kiro.js`
+- additional utility files and examples
+
+## Notes
+
+Use these files as small building blocks for automation, API work, testing flows, and AI-assisted coding workflows.
